@@ -17,12 +17,6 @@
 
 - <b>Aprendiendo:</b> Handlebarsjs
 
-## Mis Proyectos Destacados 🌟
-
-- 📺 [Proyecto Chicas Gilmore]: Un blog dedicado a mis reflexiones sobre este icónico show.
-- 🎮 [GameZone]: Un rincón donde comparto mis aventuras en el mundo de los videojuegos.
-- 🍿 [SerieLover]: Un sitio para calificar y comentar tus series favoritas.
-
 ## Contáctame 📫
 
 ¡Si quieres charlar sobre las Chicas Gilmore, debatir sobre series o intercambiar consejos de videojuegos, no dudes en contactarme! 
